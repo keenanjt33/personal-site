@@ -15,7 +15,7 @@ meant that my project was almost entirely self-supervised.
 
 ## Phase 1: Requirements Definition
 
-I met with them and they showed me around the manufacturing floor and gave
+I met with the team and they showed me around the manufacturing floor and gave
 me a high level overview of what they needed out of the project. They had
 a label printer and barcode scanners. They needed automated label printing for
 each unit manufactured (thousands per month). Units would be scanned as they
@@ -187,18 +187,20 @@ accounted for.
 
 ## Lessons and Takeaways
 
-Network is unreliable! Accounting for network disconnects in my code was not
+_Network is unreliable_: Accounting for network disconnects in my code was not
 something I had thought of beforehand but it proved to be essential.
 
-Visuals are important! Having pallet contents listed on the television in real-time
+_UI is essential_: Having pallet contents listed on the television in real-time
 and clearly visible to those stacking the units allowed the workers to keep
 track of what they were doing and minimize misscans.
 
-The beginning of joining an existing team was quite challenging as I had
+_Patience and persistence_: The beginning of joining an existing team was quite challenging as I had
 to catch up to the common conception of the project space. It was important to
 be patient and trust that with each working hour
 researching the project space, I was making
 effective progress towards the end goals even if I wasn't writing code in the beginning.
+
+_Vocabulary importance_: 
 
 When jumping into a new team and project, vocabulary definition is one of the
 first steps in understanding the project and being able to communicate with the
@@ -208,6 +210,12 @@ The team members had minimal experience managing custom software and so I had
 to be careful to translate my considerations to outcomes that were tangible to
 them rather than try to communicate implementation details that would be troublesome
 to effectively communicate.
+
+If I were a part of a larger organization with significant
+onboarding scale, I think it would be useful to have documentation of vocabulary
+and processes for training and reference. 
+
+_Remote work communication_:
 
 Being the only team member working remotely is not easy. It was a small team
 and each member had a large number of responsibilities. In the beginning I would
@@ -220,18 +228,22 @@ an efficient hour and a half team meeting. Had I been working in the office it
 would have
 been easier to ask more questions as I went which may have sped up the process.
 
-Top-down learning works, especially for a project such as this in which the
-functionality is straightforward and the project scale is small. My Python
+_Experience translates_: 
+
+My Python
 experience was limited to small projects for undergrad Security and Web Systems
-courses. This baseline proficiency was complimented by my stronger C++ and
+courses. But this baseline proficiency was complimented by my stronger C++ and
 JavaScript experience which gave me reference points for design patterns and
-in understanding and searching for tool-specific features. In this project I
-used goals and functionalities to guide my learning as I implemented. As my
-application code became too unwieldy, I would allocate time for a refactor.
+in understanding and searching for tool-specific features.
+
+I had never worked as a contractor or in manufacturing. But my education served
+me well. I had more than enough experience working as a part of a team to recognize
+and fulfill my roles both as a teammate and as an individual implementing the
+project myself.
 
 ## What I'd Do Differently
 
-In hindsight I would have doubled my
+[Effort estimation](https://en.wikipedia.org/wiki/Software_development_effort_estimation) is a notorious challenge in software development. In hindsight I would have doubled my
 workload estimates. In the beginning of the project I fell behind my predicted
 milestone timeline. This was a result of overestimating the functionality of the
 previous engineer's work. I would be better served had I been cynical about the state
