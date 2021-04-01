@@ -2,10 +2,10 @@
   "title": "Keenan Tullis",
   "url": "https://keenanjt.com",
   "domain": "keenanjt.com",
-  "description": "Description of the website. Update me.",
+  "description": "Keenan Tullis' personal website",
   "genre": "Insert a schema.org genre",
-  "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
-  "sendWebVitals": false,
+  "googleAnalyticsId": "UA-193550240-1",
+  "sendWebVitals": true,
   "feed": {
     "subtitle": "Subtitle. Update me.",
     "filename": "feed.xml",
