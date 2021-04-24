@@ -1,6 +1,6 @@
 ---
 title: Engineering Custom Labeling Software
-description: My Experience Implementing a Manufacturer Labeling Software System
+description: My experience implementing a manufacturing labeling software system
 date: 2021-03-24
 tags: posts
 layout: layouts/post.njk
