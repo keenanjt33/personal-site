@@ -9,7 +9,7 @@ eleventyNavigation:
 
 <img
   class="center avatar"
-  src="../../img/2021/03/headshot1.jpg"
+  src="../../img/2021/04/headshot4.jpg"
   alt="headshot"
   width="400px"></img>
 
