@@ -11,8 +11,8 @@ eleventyNavigation:
   class="center avatar"
   src="../../img/2021/04/headshot5.jpg"
   alt="headshot"
-  width="400px"
-></img>
+  width="400px">
+</img>
 
 I am a software developer with experience in manufacturing automation and web technologies. I have a degree in Computer Science from the University of Michigan. See how I can help your organization by reaching out to me at <a href="mailto:keenanjt@gmail.com">keenanjt@gmail.com</a>.
 
